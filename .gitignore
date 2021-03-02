@@ -1,0 +1,4 @@
+bin
+obj
+/.vs
+/parallel-tests.sln.DotSettings.user
